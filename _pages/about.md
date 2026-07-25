@@ -1,24 +1,24 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: >
-  Engineer | Researcher | Writer
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Associate Professor</p>
-    <p>NUST School of Electrical Engineering & Computer Science</p>
-    <p>Islamabad, Pakistan</p>
+    <div style="text-align:center">
+    <strong>Syed Taha Ali</strong><br>
+    Associate Professor<br>
+    NUST School of Electrical Engineering & Computer Science<br>
+    Islamabad, Pakistan
+    </div>
 
 news: true
-selected_papers: true
+selected_papers: false
 social: true
 ---
-
 ## Exploring the intersection of technology, institutions, and society through research, policy, and public engagement.
 
 I am an Associate Professor in the Department of Electrical Engineering at the **NUST School of Electrical Engineering and Computer Science (NUST-SEECS)**, Islamabad, Pakistan.

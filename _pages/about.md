@@ -27,6 +27,6 @@ My research focuses on computer networks and information security, with particul
 
 My broader goal is to build bridges across disciplines, explore emerging technological paradigms, and promote a holistic and responsible understanding of technology and its role in society.
 
-Beyond academia, I work as a research consultant, advising government and civil society organizations on technology policy, digital transformation, and institutional best practices in areas including education, environmental sustainability, and elections.
+I also work as a research consultant, advising government and civil society organizations working on education, environment, and elections. I advise on technology policy, digital transformation, and institutional best practices.
 
-I also write regularly for newspapers and magazines, and am affiliated with the **In Plato's Cave** podcast.
+I also write regularly for newspapers and magazines. I am also affiliated with the **In Plato's Cave** podcast.

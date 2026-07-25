@@ -21,7 +21,7 @@ social: true
 ---
 # Syed Taha Ali
 
-### Engineer | Researcher | Writer
+### Engineer  •  Researcher  •  Writer
 
 ## Exploring the intersection of technology, institutions, and society through research, policy, and public engagement.
 

@@ -11,8 +11,8 @@ profile:
     <div style="text-align:center">
     <strong>Syed Taha Ali</strong><br>
     Associate Professor<br>
-    NUST School of Electrical Engineering & Computer Science<br>
-    Islamabad, Pakistan
+    NUST-SEECS<br>
+    Islamabad
     </div>
 
 news: true

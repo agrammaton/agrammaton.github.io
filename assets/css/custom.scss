@@ -94,3 +94,28 @@ p {
     margin-bottom: 1.3rem;
 
 }
+
+/* ---------- News ---------- */
+
+.news-list {
+    margin-top: 1rem;
+}
+
+.news-entry {
+    display: flex;
+    margin-bottom: 14px;
+    align-items: baseline;
+}
+
+.news-date {
+    width: 120px;
+    color: #888;
+    font-size: 0.85rem;
+    font-family: monospace;
+}
+
+.news-text {
+    flex: 1;
+}
+
+

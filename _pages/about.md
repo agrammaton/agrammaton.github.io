@@ -21,7 +21,7 @@ social: true
 ---
 # Syed Taha Ali
 
-### Engineer  •  Researcher  •  Writer
+### Engineer   •   Researcher   •   Writer
 
 <!--
 > *Exploring the intersection of technology, institutions, and society through research, policy, and public engagement.*
@@ -36,21 +36,26 @@ Beyond academia, I advise government and civil society organizations on technolo
 I also write regularly for local media and contribute to the *In Plato's Cave* podcast.
 
 
-## Recent Activity
+## Recent Updates
 
 <div class="news-list">
+
 {% assign news = site.news | sort: "date" | reverse %}
+
 {% for item in news limit:5 %}
 
 <div class="news-entry">
+
     <span class="news-date">
-        {{ item.date | date: "%d %b %Y" }}
+        {{ item.date | date: "%-d %b %Y" }}
     </span>
 
     <span class="news-text">
         {{ item.content }}
     </span>
+
 </div>
 
 {% endfor %}
+
 </div>

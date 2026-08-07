@@ -139,70 +139,47 @@ blockquote {
 
 }
 
-
 /* ---------------------------------------------------------
-   News Section
+   Recent Activity
 --------------------------------------------------------- */
 
 .news-list {
-    margin-top: 1rem;
+
+  margin-top: 1.5rem;
+
 }
 
 .news-entry {
-    display: flex;
-    margin-bottom: 14px;
-    align-items: baseline;
+
+  display: flex;
+  align-items: baseline;
+  gap: 2rem;
+  margin-bottom: 1rem;
+
 }
 
 .news-date {
-    font-variant: small-caps;
-    letter-spacing: 0.08em;
+
+  width: 125px;
+  flex-shrink: 0;
+
+  color: #777;
+
+  font-size: 0.88rem;
+
+  font-family: "Source Code Pro", monospace;
+
+  font-variant: small-caps;
+
+  letter-spacing: .08em;
+
 }
 
 .news-text {
-    flex: 1;
-}
 
-
-/* ---------------------------------------------------------
-   Horizontal Rules
---------------------------------------------------------- */
-
-hr {
-
-  border: none;
-  border-top: 1px solid var(--global-divider-color);
-  margin: 3rem 0;
+  flex: 1;
 
 }
-
-
-/* ---------------------------------------------------------
-   Gentle Fade Animation
---------------------------------------------------------- */
-
-body {
-
-  animation: fadein 0.45s ease;
-
-}
-
-@keyframes fadein {
-
-  from {
-
-    opacity: 0;
-
-  }
-
-  to {
-
-    opacity: 1;
-
-  }
-
-}
-
 /* ---------------------------------------------------------
    Wider page layout
 --------------------------------------------------------- */

@@ -31,7 +31,7 @@ My research focuses on computer networks, information security, and technology p
 
 Beyond academia, I advise government and civil society organizations on technology policy, digital transformation, and institutional best practices. I also write regularly for local media and contribute to the *In Plato's Cave* podcast.
 
-## Recent News
+## Recent Activity
 
 <div class="news-list">
 {% assign news = site.news | sort: "date" | reverse %}

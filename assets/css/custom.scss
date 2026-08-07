@@ -130,38 +130,57 @@ blockquote {
    Recent Activity
    ---------------------------------------------------------- */
 
+/* ----------------------------------------------------------
+   Recent Activity
+---------------------------------------------------------- */
+
 .news-list {
-  margin-top: 1.5rem;
+    margin-top: 2rem;
 }
 
 .news-entry {
-  display: flex;
-  align-items: flex-start;
-  gap: 2rem;
-  margin-bottom: 1rem;
+
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    column-gap: 2rem;
+
+    align-items: start;
+
+    padding: .55rem 0;
+
+}
+
+.news-entry:not(:last-child) {
+
+    border-bottom: 1px solid #ece7de;
+
 }
 
 .news-date {
-  width: 120px;
-  flex-shrink: 0;
 
-  color: #777;
+    color: #888;
 
-  font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
-  font-size: .9rem;
-  letter-spacing: .08em;
-  font-variant: small-caps;
+    font-size: .9rem;
+
+    font-family: "JetBrains Mono", Consolas, monospace;
+
+    letter-spacing: .05em;
+
+    white-space: nowrap;
+
 }
 
 .news-text {
-  flex: 1;
+
+    line-height: 1.75;
+
 }
 
 .news-text p {
-  margin: 0;
-  line-height: 1.7;
-}
 
+    margin: 0;
+
+}
 /* ----------------------------------------------------------
    Section spacing
    ---------------------------------------------------------- */

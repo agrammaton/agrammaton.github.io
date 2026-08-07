@@ -1,8 +1,15 @@
-/* ==========================================
-   Syed Taha Ali Website Theme
-   ========================================== */
+---
+---
 
-/* ---------- Color Palette ---------- */
+/* =========================================================
+   Syed Taha Ali Website Theme
+   Elegant academic styling for al-folio
+========================================================= */
+
+
+/* ---------------------------------------------------------
+   Color Palette
+--------------------------------------------------------- */
 
 :root {
 
@@ -17,17 +24,20 @@
 
   --global-divider-color: #DDD8CF;
   --global-card-bg-color: #FFFFFF;
+
 }
 
 
-/* ---------- Typography ---------- */
+/* ---------------------------------------------------------
+   Typography
+--------------------------------------------------------- */
 
 body {
 
-    font-family: "Inter", sans-serif;
-    line-height: 1.75;
-    font-size: 17px;
-    color: var(--global-text-color);
+  font-family: "Inter", sans-serif;
+  font-size: 17px;
+  line-height: 1.75;
+  color: var(--global-text-color);
 
 }
 
@@ -37,83 +47,172 @@ h3,
 h4,
 h5 {
 
-    font-family: "Source Serif 4", serif;
-    font-weight: 600;
-    color: var(--global-text-color);
+  font-family: "Source Serif 4", serif;
+  color: var(--global-text-color);
+  font-weight: 600;
 
 }
 
+h1 {
 
-/* ---------- Links ---------- */
-
-a {
-
-    color: var(--global-theme-color);
-    transition: 0.25s;
+  font-size: 2.3rem;
+  margin-bottom: 0.4rem;
 
 }
-
-a:hover {
-
-    color: var(--global-hover-color);
-    text-decoration: none;
-
-}
-
-
-/* ---------- Navigation ---------- */
-
-.navbar {
-
-    border-bottom: 1px solid var(--global-divider-color);
-
-}
-
-
-/* ---------- Profile Image ---------- */
-
-.profile img {
-
-    border-radius: 8px;
-    box-shadow: 0 8px 24px rgba(0,0,0,.08);
-
-}
-
-
-/* ---------- Section spacing ---------- */
 
 h2 {
 
-    margin-top: 3rem;
-    margin-bottom: 1rem;
+  font-size: 1.55rem;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  letter-spacing: 0.02em;
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-bottom: 0.35rem;
+
+}
+
+h3 {
+
+  font-size: 1.2rem;
 
 }
 
 p {
 
-    margin-bottom: 1.3rem;
+  margin-bottom: 1.3rem;
 
 }
 
-/* ---------- News ---------- */
+
+/* ---------------------------------------------------------
+   Links
+--------------------------------------------------------- */
+
+a {
+
+  color: var(--global-theme-color);
+  transition: color 0.25s ease;
+
+}
+
+a:hover {
+
+  color: var(--global-hover-color);
+  text-decoration: none;
+
+}
+
+
+/* ---------------------------------------------------------
+   Navigation
+--------------------------------------------------------- */
+
+.navbar {
+
+  border-bottom: 1px solid var(--global-divider-color);
+
+}
+
+
+/* ---------------------------------------------------------
+   Profile Image
+--------------------------------------------------------- */
+
+.profile img {
+
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+
+}
+
+
+/* ---------------------------------------------------------
+   Blockquotes
+--------------------------------------------------------- */
+
+blockquote {
+
+  border-left: 4px solid var(--global-theme-color);
+  padding-left: 1rem;
+  color: #555;
+  font-style: italic;
+
+}
+
+
+/* ---------------------------------------------------------
+   News Section
+--------------------------------------------------------- */
 
 .news-list {
-    margin-top: 1rem;
+
+  margin-top: 1.2rem;
+
 }
 
 .news-entry {
-    display: flex;
-    margin-bottom: 14px;
-    align-items: baseline;
+
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 1rem;
+
 }
 
 .news-date {
-    font-variant: small-caps;
-    letter-spacing: 0.08em;
+
+  width: 120px;
+  flex-shrink: 0;
+
+  color: #777;
+  font-size: 0.85rem;
+
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+
 }
 
 .news-text {
-    flex: 1;
+
+  flex: 1;
+
 }
 
 
+/* ---------------------------------------------------------
+   Horizontal Rules
+--------------------------------------------------------- */
+
+hr {
+
+  border: none;
+  border-top: 1px solid var(--global-divider-color);
+  margin: 3rem 0;
+
+}
+
+
+/* ---------------------------------------------------------
+   Gentle Fade Animation
+--------------------------------------------------------- */
+
+body {
+
+  animation: fadein 0.45s ease;
+
+}
+
+@keyframes fadein {
+
+  from {
+
+    opacity: 0;
+
+  }
+
+  to {
+
+    opacity: 1;
+
+  }
+
+}

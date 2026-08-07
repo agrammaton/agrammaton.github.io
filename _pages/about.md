@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Taha Ali | Academic Homepage
+title: home
 permalink: /
 
 profile:

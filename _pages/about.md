@@ -38,24 +38,4 @@ I also write regularly for local media and contribute to the *In Plato's Cave* p
 
 ## Recent Updates
 
-<div class="news-list">
-
-{% assign news = site.news | sort: "date" | reverse %}
-
-{% for item in news limit:5 %}
-
-<div class="news-entry">
-
-    <span class="news-date">
-        {{ item.date | date: "%-d %b %Y" }}
-    </span>
-
-    <span class="news-text">
-        {{ item.content }}
-    </span>
-
-</div>
-
-{% endfor %}
-
-</div>
+{% include news.liquid %}

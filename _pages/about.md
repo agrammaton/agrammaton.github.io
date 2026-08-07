@@ -31,20 +31,21 @@ My research focuses on computer networks, information security, and technology p
 
 Beyond academia, I advise government and civil society organizations on technology policy, digital transformation, and institutional best practices. I also write regularly for local media and contribute to the *In Plato's Cave* podcast.
 
-## News
+## Recent News
 
-<div class="news">
-  {% if site.news and site.news.size > 0 %}
-    {% assign news = site.news | sort: "date" | reverse %}
-    {% for item in news limit:5 %}
-      <div class="news-item">
-        <span class="news-date">{{ item.date | date: "%b %-d, %Y" }}</span>
-        <div class="news-content">
-          {{ item.content }}
-        </div>
-      </div>
-    {% endfor %}
-  {% else %}
-    <p>No news yet.</p>
-  {% endif %}
+<div class="news-list">
+{% assign news = site.news | sort: "date" | reverse %}
+{% for item in news limit:5 %}
+
+<div class="news-entry">
+    <span class="news-date">
+        {{ item.date | date: "%d %b %Y" }}
+    </span>
+
+    <span class="news-text">
+        {{ item.content }}
+    </span>
+</div>
+
+{% endfor %}
 </div>

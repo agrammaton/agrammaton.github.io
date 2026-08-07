@@ -9,7 +9,7 @@ profile:
   image_circular: false
   more_info: >
     <div style="text-align:center">
-    <strong>Syed Taha Ali</strong><br>
+    <strong>Taha Ali</strong><br>
     Associate Professor<br>
     NUST-SEECS<br>
     Islamabad
@@ -19,7 +19,7 @@ news: true
 selected_papers: false
 social: true
 ---
-# Syed Taha Ali
+# Taha Ali
 
 ### Engineer   •   Researcher   •   Writer
 

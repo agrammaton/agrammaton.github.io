@@ -145,36 +145,22 @@ blockquote {
 --------------------------------------------------------- */
 
 .news-list {
-
-  margin-top: 1.2rem;
-
+    margin-top: 1rem;
 }
 
 .news-entry {
-
-  display: flex;
-  align-items: baseline;
-  margin-bottom: 1rem;
-
+    display: flex;
+    margin-bottom: 14px;
+    align-items: baseline;
 }
 
 .news-date {
-
-  width: 120px;
-  flex-shrink: 0;
-
-  color: #777;
-  font-size: 0.85rem;
-
-  font-variant: small-caps;
-  letter-spacing: 0.08em;
-
+    font-variant: small-caps;
+    letter-spacing: 0.08em;
 }
 
 .news-text {
-
-  flex: 1;
-
+    flex: 1;
 }
 
 

@@ -35,8 +35,6 @@ Beyond academia, I advise government and civil society organizations on technolo
 
 I also write regularly for local media and contribute to the *In Plato's Cave* podcast.
 
-<link rel="stylesheet" href="/assets/css/test.css">
-
 ## Recent Updates
 
 {% include news.liquid %}

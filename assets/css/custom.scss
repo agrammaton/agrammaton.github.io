@@ -130,13 +130,17 @@ blockquote {
   font-style: italic;
 }
 
-/* ----------------------------------------------------------
-   Recent Activity
-   ---------------------------------------------------------- */
 
 /* ----------------------------------------------------------
    Recent Activity
 ---------------------------------------------------------- */
+
+.news-item{
+    display:flex;
+    align-items:flex-start;
+    gap:20px;
+    margin-bottom:18px;
+}
 
 .news-list {
     margin-top: 2rem;
@@ -184,6 +188,10 @@ blockquote {
 
     margin: 0;
 
+}
+
+.news-text{
+    flex:1;
 }
 /* ----------------------------------------------------------
    Section spacing

@@ -23,7 +23,9 @@ social: true
 
 ### Engineer  •  Researcher  •  Writer
 
+<!--
 > *Exploring the intersection of technology, institutions, and society through research, policy, and public engagement.*
+-->
 
 I am an Associate Professor in the Department of Electrical Engineering at the **NUST School of Electrical Engineering and Computer Science (NUST-SEECS)**, Islamabad.
 

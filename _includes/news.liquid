@@ -1,9 +1,11 @@
 {% assign news = site.news | sort: "date" | reverse %}
 
 {% if news.size > 0 %}
+<div class="news-list">
+
 {% for item in news limit:5 %}
 
-<div class="news-item">
+<div class="news-entry">
   <div class="news-date">
     {{ item.date | date: "%-d %b %Y" }}
   </div>
@@ -14,4 +16,6 @@
 </div>
 
 {% endfor %}
+
+</div>
 {% endif %}

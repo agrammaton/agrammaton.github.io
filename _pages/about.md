@@ -31,7 +31,9 @@ I am an Associate Professor in the Department of Electrical Engineering at the *
 
 My research focuses on computer networks, information security, and technology policy, with particular interests in cryptocurrencies, Internet of Things, machine learning, and emerging technologies.
 
-Beyond academia, I advise government and civil society organizations on technology policy, digital transformation, and institutional best practices. I also write regularly for local media and contribute to the *In Plato's Cave* podcast.
+Beyond academia, I advise government and civil society organizations on technology policy, digital transformation, and institutional best practices.
+
+I also write regularly for local media and contribute to the *In Plato's Cave* podcast.
 
 ## Recent Activity
 

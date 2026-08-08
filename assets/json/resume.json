@@ -1,15 +1,19 @@
 {
   "basics": {
     "name": "Taha Ali",
-    "label": "Associate Professor • Researcher • Writer",
+    "label": "Engineer · Researcher · Writer",
     "email": "taha.ali@gmail.com",
     "url": "https://agrammaton.github.io",
-    "summary": "Academic, researcher, and writer working at the intersection of computer networks, information security, emerging technologies, and technology policy.",
+    "summary": "Academic, researcher, and technology policy consultant working at the intersection of computer networks, information security, emerging technologies, and society.",
     "location": {
       "city": "Islamabad",
       "countryCode": "PK"
     },
     "profiles": [
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=0du4338AAAAJ&hl"
+      },
       {
         "network": "Website",
         "url": "https://agrammaton.github.io"
@@ -19,29 +23,39 @@
 
   "work": [
     {
-      "name": "National University of Sciences and Technology",
+      "name": "National University of Sciences and Technology (NUST)",
       "position": "Associate Professor, Electrical Engineering",
       "location": "Islamabad, Pakistan",
-      "startDate": "2016",
-      "endDate": "Current",
-      "summary": "Associate Professor in the NUST School of Electrical Engineering and Computer Science (SEECS).",
+      "startDate": "2023-01-01",
+      "summary": "I teach and conduct research at the NUST School of Electrical Engineering and Computer Science (SEECS). I head the Cognet Lab, researching security applications in new and emerging technologies.",
       "highlights": [
-        "Teach undergraduate and graduate courses including computer programming, computer networks, network security, cryptocurrencies, and blockchain.",
-        "Head the Cognet Lab, researching security applications in emerging technologies including blockchain, machine learning, computer vision, and Internet of Things.",
-        "Supervised 25 Masters students and 2 PhD students to graduation.",
-        "Introduced a Masters-level course on Cryptocurrencies and Blockchain Technology at NUST in 2018."
+        "Teach undergraduate and graduate courses in computer programming, computer networks, network security, cryptocurrencies, and blockchain.",
+        "Head the Cognet Lab, with research spanning blockchain, machine learning, computer vision, Internet of Things, and information security.",
+        "Supervised 25 Masters students and 2 PhD students to graduation."
+      ]
+    },
+    {
+      "name": "National University of Sciences and Technology (NUST)",
+      "position": "Assistant Professor, Electrical Engineering",
+      "location": "Islamabad, Pakistan",
+      "startDate": "2016-01-01",
+      "endDate": "2023-01-01",
+      "highlights": [
+        "Taught in the NUST School of Electrical Engineering and Computer Science (SEECS).",
+        "Introduced a Masters-level course on Cryptocurrencies and Blockchain Technology in 2018.",
+        "Taught courses including Fundamentals of ICT, Fundamentals of Programming, Computer Networks, Network Routing and Switching, Advanced Computer Networks, and Network Security."
       ]
     },
     {
       "name": "Newcastle University",
       "position": "Research Associate, Computing Science",
       "location": "Newcastle, UK",
-      "startDate": "2014",
-      "endDate": "2016",
+      "startDate": "2014-01-01",
+      "endDate": "2016-01-01",
       "highlights": [
-        "Worked on an EU project on secure and verifiable electronic voting systems.",
-        "Contributed to research projects on cryptocurrencies and blockchain.",
-        "Initiated research on next-generation botnets.",
+        "Worked on a flagship EU project on secure and verifiable electronic voting systems.",
+        "Contributed to projects on cryptocurrencies and blockchain.",
+        "Initiated a project on next-generation botnets.",
         "Contributed to the book Real-World Electronic Voting: Design, Analysis and Deployment."
       ]
     },
@@ -49,8 +63,8 @@
       "name": "University of New South Wales",
       "position": "Postdoctoral Researcher",
       "location": "Sydney, Australia",
-      "startDate": "2012",
-      "endDate": "2014",
+      "startDate": "2012-01-01",
+      "endDate": "2014-01-01",
       "highlights": [
         "Worked on security and green applications of software-defined networks.",
         "Researched data provenance mechanisms for healthcare and IoT devices."
@@ -60,50 +74,56 @@
       "name": "CSIRO",
       "position": "ICT Research Projects Officer",
       "location": "Australia",
-      "startDate": "2011",
-      "endDate": "2012",
+      "startDate": "2011-01-01",
+      "endDate": "2012-01-01",
       "highlights": [
-        "Worked on algorithms for reducing energy consumption in residential WiFi networks.",
-        "Developed algorithms to adjust the mode and transmit power of WiFi access points in response to user traffic, achieving power savings of up to 40%."
+        "Worked on a project to improve the energy efficiency of residential WiFi networks.",
+        "Developed algorithms to strategically adjust WiFi access-point modes and transmit power in response to user traffic.",
+        "Achieved power savings of up to 40% in experimental deployments."
       ]
     },
     {
-      "name": "WorldCALL Broadband Pvt. Ltd.",
+      "name": "WorldCALL Broadband, Pvt. Ltd.",
       "position": "Assistant Manager",
       "location": "Pakistan",
-      "startDate": "2003",
-      "endDate": "2005",
+      "startDate": "2003-01-01",
+      "endDate": "2005-01-01",
       "highlights": [
-        "Took on engineering and management roles in deploying Pakistan's largest hybrid-fiber-coax broadband network."
+        "Worked in engineering and management roles deploying Pakistan's largest hybrid-fiber-coax broadband network."
       ]
     }
   ],
 
   "education": [
     {
-      "institution": "University of New South Wales",
+      "institution": "University of New South Wales (UNSW)",
       "location": "Sydney, Australia",
       "area": "Electrical Engineering",
       "studyType": "PhD",
-      "startDate": "2007",
-      "endDate": "2012",
+      "startDate": "2007-01-01",
+      "endDate": "2012-01-01",
       "courses": [
         "Security Mechanisms for Body Sensor Networks"
       ],
       "highlights": [
         "Thesis: Security Mechanisms for Body Sensor Networks",
-        "Supervisors: Vijay Sivaraman and Diethelm Ostry"
+        "Supervisors: Vijay Sivaraman and Diethelm Ostry.",
+        "Research focused on efficient security mechanisms for bodyworn health-monitoring devices."
       ]
     },
     {
-      "institution": "University of New South Wales",
+      "institution": "University of New South Wales (UNSW)",
       "location": "Sydney, Australia",
       "area": "Telecommunications Engineering",
       "studyType": "MS",
-      "startDate": "2005",
-      "endDate": "2006",
-      "highlights": [
-        "Courses included Network Management, Advanced Computer Networks, Switching Systems and Design, Satellite Systems and Navigation, and Wireless Communications."
+      "startDate": "2005-01-01",
+      "endDate": "2006-01-01",
+      "courses": [
+        "Network Management",
+        "Advanced Computer Networks",
+        "Switching Systems and Design",
+        "Satellite Systems and Navigation",
+        "Wireless Communications"
       ]
     },
     {
@@ -111,257 +131,447 @@
       "location": "Pakistan",
       "area": "Electrical Engineering",
       "studyType": "BS",
-      "startDate": "1998",
-      "endDate": "2002",
-      "highlights": [
-        "Final Year Project: Software Control for Embedded Systems using Jini"
+      "startDate": "1998-01-01",
+      "endDate": "2002-01-01",
+      "courses": [
+        "Software Control for Embedded Systems using Jini"
       ]
     }
   ],
 
+  "awards": [],
+
   "publications": [
     {
-      "name": "Cuckoo's Nest: An Ultra-Lightweight DoS-resilient Bitcoin Mempool",
+      "title": "Cuckoo's Nest: An Ultra-Lightweight DoS-resilient Bitcoin Mempool",
+      "authors": [
+        "H. B. Haq",
+        "S. Taha Ali",
+        "S. F. Shahandashti"
+      ],
       "publisher": "7th IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
-      "releaseDate": "2025",
+      "releaseDate": "2025-01-01",
       "summary": "Best Paper Award."
     },
     {
-      "name": "Cerberus: A Blockchain-Based Accreditation and Degree Verification System",
+      "title": "Neonpool: Reimagining Cryptocurrency Transaction Pools for Lightweight Clients and IoT Devices",
+      "authors": [
+        "H. B. Haq",
+        "S. Taha Ali",
+        "S. F. Shahandashti"
+      ],
+      "publisher": "arXiv preprint",
+      "releaseDate": "2025-01-01",
+      "summary": "Under submission."
+    },
+    {
+      "title": "Cerberus: A Blockchain-Based Accreditation and Degree Verification System",
+      "authors": [
+        "A. Tariq",
+        "H. B. Haq",
+        "S. Taha Ali"
+      ],
       "publisher": "IEEE Transactions on Computational Social Systems (TCSS)",
-      "releaseDate": "2023"
+      "releaseDate": "2023-01-01"
     },
     {
-      "name": "Merging Engine Implementation for Intra-frame Sharing in Multi-tenant Virtual Passive Optical Networks",
+      "title": "Merging Engine Implementation for Intra-frame Sharing in Multi-tenant Virtual Passive Optical Networks",
+      "authors": [
+        "A. Ahmad",
+        "A. Ahmed",
+        "A. Al-Dweik",
+        "S. Taha Ali",
+        "A. Ahmad"
+      ],
       "publisher": "Journal of Optical Communications and Networking (JOCN)",
-      "releaseDate": "2023"
+      "releaseDate": "2023-01-01"
     },
     {
-      "name": "False Data Injection Attacks on Networked Control Systems",
+      "title": "False Data Injection Attacks on Networked Control Systems",
+      "authors": [
+        "R. Safdar",
+        "A. Pasha",
+        "S. Taha Ali"
+      ],
       "publisher": "Journal of Control and Decision",
-      "releaseDate": "2023"
+      "releaseDate": "2023-01-01"
     },
     {
-      "name": "End-to-end Verifiable Voting for Developing Countries - What's Hard in Lausanne is Harder Still in Lahore",
-      "publisher": "International Conference for Electronic Voting (E-Vote-ID)",
-      "releaseDate": "2022"
-    },
-    {
-      "name": "Electronic Voting Machines for Pakistan: Opportunities, Challenges, and the Way Forward",
+      "title": "Electronic Voting Machines for Pakistan: Opportunities, Challenges, and the Way Forward",
+      "authors": [
+        "H. B. Haq",
+        "S. Taha Ali"
+      ],
       "publisher": "PIDE Research for Social Transformation and Advancement (RASTA) Conference",
-      "releaseDate": "2022",
+      "releaseDate": "2022-01-01",
       "summary": "Policy Paper."
     },
     {
-      "name": "Secure Opportunistic Contextual Logging for Wearable Healthcare Sensing",
-      "publisher": "IEEE Transactions on Dependable and Secure Computing",
-      "releaseDate": "2021"
-    },
-    {
-      "name": "A First Look at Private Communications in Video Games using Visual Features",
-      "publisher": "Privacy Enhancing Technologies",
-      "releaseDate": "2021"
-    },
-    {
-      "name": "Forensic Verification of Health Data From Wearable Devices Using Anonymous Witnesses",
-      "publisher": "IEEE Internet of Things Journal",
-      "releaseDate": "2020"
-    },
-    {
-      "name": "Pakistan's Internet Voting Experiment",
+      "title": "End-to-end Verifiable Voting for Developing Countries - What's Hard in Lausanne is Harder Still in Lahore",
+      "authors": [
+        "H. B. Haq",
+        "S. Taha Ali",
+        "R. McDermott"
+      ],
       "publisher": "International Conference for Electronic Voting (E-Vote-ID)",
-      "releaseDate": "2019",
+      "releaseDate": "2022-01-01"
+    },
+    {
+      "title": "Secure Opportunistic Contextual Logging for Wearable Healthcare Sensing",
+      "authors": [
+        "M. Siddiqi",
+        "S. Taha Ali",
+        "V. Sivaraman"
+      ],
+      "publisher": "IEEE Transactions on Dependable and Secure Computing",
+      "releaseDate": "2021-01-01"
+    },
+    {
+      "title": "A First Look at Private Communications in Video Games using Visual Features",
+      "authors": [
+        "A. Wajid",
+        "N. Kamal",
+        "M. Sharjeel",
+        "R. M. Sheikh",
+        "H. B. Wasim",
+        "M. H. Ali",
+        "W. Hussain",
+        "S. Taha Ali",
+        "L. Anjum"
+      ],
+      "publisher": "Privacy Enhancing Technologies",
+      "releaseDate": "2021-01-01"
+    },
+    {
+      "title": "Forensic Verification of Health Data From Wearable Devices Using Anonymous Witnesses",
+      "authors": [
+        "M. Siddiqi",
+        "S. Taha Ali",
+        "V. Sivaraman"
+      ],
+      "publisher": "IEEE Internet of Things Journal",
+      "releaseDate": "2020-01-01"
+    },
+    {
+      "title": "Pakistan's Internet Voting Experiment",
+      "authors": [
+        "H. B. Haq",
+        "R. McDermott",
+        "S. Taha Ali"
+      ],
+      "publisher": "International Conference for Electronic Voting (E-Vote-ID)",
+      "releaseDate": "2019-01-01",
       "summary": "Best Paper Award."
     },
     {
-      "name": "ZombieCoin: Powering Next Generation Botnets with Bitcoin",
+      "title": "ZombieCoin: Powering Next Generation Botnets with Bitcoin",
+      "authors": [
+        "S. Taha Ali",
+        "P. McCorry",
+        "P. H. J. Lee",
+        "F. Hao"
+      ],
       "publisher": "International Journal of Information Security (IJIS)",
-      "releaseDate": "2018"
+      "releaseDate": "2018-01-01"
     },
     {
-      "name": "Why Preventing a Cryptocurrency Exchange Heist Isn't Good Enough",
+      "title": "Why Preventing a Cryptocurrency Exchange Heist Isn't Good Enough",
+      "authors": [
+        "P. McCorry",
+        "M. Möser",
+        "S. Taha Ali"
+      ],
       "publisher": "Cambridge Security Protocols Workshop",
-      "releaseDate": "2018"
+      "releaseDate": "2018-01-01"
     },
     {
-      "name": "Navigating the Cryptocurrency Landscape: An Islamic Perspective",
+      "title": "Navigating the Cryptocurrency Landscape: An Islamic Perspective",
+      "authors": [
+        "H. B. Haq",
+        "S. Taha Ali"
+      ],
       "publisher": "6th International Conference on Islam and Liberty (ILN)",
-      "releaseDate": "2018",
-      "summary": "Conference/book chapter."
+      "releaseDate": "2018-01-01",
+      "summary": "Conference paper / book chapter."
     },
     {
-      "name": "Findings And Assessment Report of Internet Voting Task Force On Voting Rights Of Overseas Pakistanis",
-      "publisher": "Internet Voting Task Force",
-      "releaseDate": "2018",
-      "summary": "Assessment presented to the Supreme Court of Pakistan."
-    },
-    {
-      "name": "End to End Security is Not Enough",
+      "title": "End to End Security is Not Enough",
+      "authors": [
+        "D. Clarke",
+        "S. Taha Ali"
+      ],
       "publisher": "Cambridge Security Protocols Workshop",
-      "releaseDate": "2017"
+      "releaseDate": "2017-01-01"
     },
     {
-      "name": "Secure Lightweight Context-driven Data Logging for Bodyworn Sensing Devices",
+      "title": "Secure Lightweight Context-driven Data Logging for Bodyworn Sensing Devices",
+      "authors": [
+        "M. Siddiqi",
+        "S. Taha Ali",
+        "V. Sivaraman"
+      ],
       "publisher": "International Symposium on Digital Forensics and Security (ISDFS)",
-      "releaseDate": "2017"
+      "releaseDate": "2017-01-01"
     },
     {
-      "name": "The Nuts and Bolts of Micropayments: a Survey",
-      "publisher": "arXiv",
-      "releaseDate": "2017",
-      "summary": "arXiv preprint."
+      "title": "The Nuts and Bolts of Micropayments: a Survey",
+      "authors": [
+        "S. Taha Ali",
+        "D. Clarke",
+        "P. McCorry"
+      ],
+      "publisher": "arXiv preprint",
+      "releaseDate": "2017-01-01"
     },
     {
-      "name": "An Overview of End-to-end Verifiable Voting Systems",
-      "publisher": "Real-World Electronic Voting: Design, Analysis and Deployment (CRC Press)",
-      "releaseDate": "2016"
+      "title": "An Overview of End-to-end Verifiable Voting Systems",
+      "authors": [
+        "S. Taha Ali",
+        "J. Murray"
+      ],
+      "publisher": "Real-World Electronic Voting: Design, Analysis and Deployment, CRC Press",
+      "releaseDate": "2016-01-01"
     },
     {
-      "name": "Bitcoin: Perils of an Unregulated Global P2P Currency",
-      "publisher": "Cambridge Security Protocols Workshop",
-      "releaseDate": "2015"
-    },
-    {
-      "name": "ZombieCoin: Powering Next Generation Botnets with Bitcoin",
-      "publisher": "BITCOIN / Financial Cryptography (FC)",
-      "releaseDate": "2015"
-    },
-    {
-      "name": "A Survey of Securing Networks using Software Defined Networking",
+      "title": "A Survey of Securing Networks using Software Defined Networking",
+      "authors": [
+        "S. Taha Ali",
+        "V. Sivaraman",
+        "A. Radford",
+        "S. Jha"
+      ],
       "publisher": "IEEE Transactions on Reliability",
-      "releaseDate": "2015"
+      "releaseDate": "2015-01-01"
     },
     {
-      "name": "Securing First-Hop Data Provenance for Bodyworn Devices using Wireless Link Fingerprints",
+      "title": "Securing First-Hop Data Provenance for Bodyworn Devices using Wireless Link Fingerprints",
+      "authors": [
+        "S. Taha Ali",
+        "V. Sivaraman",
+        "D. Ostry",
+        "S. Jha",
+        "G. Tsudik"
+      ],
       "publisher": "IEEE Transactions on Information Forensics and Security (TIFS)",
-      "releaseDate": "2015"
+      "releaseDate": "2015-01-01"
     },
     {
-      "name": "Greening Residential WiFi Networks under Centralized Control",
+      "title": "Greening Residential WiFi Networks under Centralized Control",
+      "authors": [
+        "V. Sivaraman",
+        "J. Matthews",
+        "C. Russell",
+        "S. Taha Ali",
+        "A. Vishwanath"
+      ],
       "publisher": "IEEE Transactions on Mobile Computing (ToMC)",
-      "releaseDate": "2015"
+      "releaseDate": "2015-01-01"
     },
     {
-      "name": "The Nuts and Bolts of Conspiracy Theories",
+      "title": "Bitcoin: Perils of an Unregulated Global P2P Currency",
+      "authors": [
+        "S. Taha Ali",
+        "D. Clarke",
+        "P. McCorry"
+      ],
+      "publisher": "Cambridge Security Protocols Workshop",
+      "releaseDate": "2015-01-01"
+    },
+    {
+      "title": "The Nuts and Bolts of Conspiracy Theories",
+      "authors": [
+        "S. Taha Ali"
+      ],
       "publisher": "International Conference on Deceptive Behavior (Decepticon), Cambridge University",
-      "releaseDate": "2015",
+      "releaseDate": "2015-01-01",
       "summary": "Poster."
     },
     {
-      "name": "Authentication of Lossy Data in Body-sensor Networks for Cloud-based Healthcare Monitoring",
+      "title": "Authentication of Lossy Data in Body-sensor Networks for Cloud-based Healthcare Monitoring",
+      "authors": [
+        "S. Taha Ali",
+        "V. Sivaraman",
+        "D. Ostry"
+      ],
       "publisher": "Future Generation Computer Systems",
-      "releaseDate": "2014"
+      "releaseDate": "2014-01-01"
     },
     {
-      "name": "Eliminating Reconciliation Cost in Secret Key Generation for Bodyworn Health Monitoring Devices",
+      "title": "Eliminating Reconciliation Cost in Secret Key Generation for Bodyworn Health Monitoring Devices",
+      "authors": [
+        "S. Taha Ali",
+        "V. Sivaraman",
+        "D. Ostry"
+      ],
       "publisher": "IEEE Transactions on Mobile Computing",
-      "releaseDate": "2014"
+      "releaseDate": "2014-01-01"
     },
     {
-      "name": "Securing Data Provenance in Body Area Networks using Lightweight Wireless Link Fingerprints",
-      "publisher": "TrustED Workshop, ACM Computer and Communications Security (CCS)",
-      "releaseDate": "2013"
-    },
-    {
-      "name": "Methodologies Of Secret-Key Agreement Using Wireless Channel Characteristics",
+      "title": "Methodologies Of Secret-Key Agreement Using Wireless Channel Characteristics",
+      "authors": [
+        "S. Taha Ali"
+      ],
       "publisher": "ZTE Communications",
-      "releaseDate": "2013",
+      "releaseDate": "2013-01-01",
       "summary": "Magazine article."
     },
     {
-      "name": "Zero Reconciliation Secret Key Generation for Mobile Bodyworn Health Monitoring Devices",
+      "title": "Secure Data Provenance in Body Area Networks using Lightweight Wireless Link Fingerprints",
+      "authors": [
+        "S. Taha Ali",
+        "V. Sivaraman",
+        "D. Ostry",
+        "S. Jha"
+      ],
+      "publisher": "TrustED Workshop, ACM Computer and Communications Security (CCS)",
+      "releaseDate": "2013-01-01"
+    },
+    {
+      "title": "Zero Reconciliation Secret Key Generation for Mobile Bodyworn Health Monitoring Devices",
+      "authors": [
+        "S. Taha Ali",
+        "V. Sivaraman",
+        "D. Ostry"
+      ],
       "publisher": "ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)",
-      "releaseDate": "2012"
+      "releaseDate": "2012-01-01"
     },
     {
-      "name": "Authentication of Lossy Data in Body Sensor Networks",
+      "title": "Authentication of Lossy Data in Body Sensor Networks",
+      "authors": [
+        "S. Taha Ali",
+        "V. Sivaraman",
+        "D. Ostry"
+      ],
       "publisher": "IEEE International Conference on Sensing, Communication, and Networking (SECON)",
-      "releaseDate": "2012"
+      "releaseDate": "2012-01-01"
     },
     {
-      "name": "Decorrelating Secret Bit Extraction via Channel Hopping in Body Area Networks",
+      "title": "Decorrelating Secret Bit Extraction via Channel Hopping in Body Area Networks",
+      "authors": [
+        "L. Yao",
+        "S. Taha Ali",
+        "V. Sivaraman",
+        "D. Ostry"
+      ],
       "publisher": "IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",
-      "releaseDate": "2012"
+      "releaseDate": "2012-01-01"
     },
     {
-      "name": "Improving secret key generation performance for on-body devices",
+      "title": "Improving secret key generation performance for on-body devices",
+      "authors": [
+        "L. Yao",
+        "S. Taha Ali",
+        "V. Sivaraman",
+        "D. Ostry"
+      ],
       "publisher": "EAI Body Area Networks (BodyNets)",
-      "releaseDate": "2011"
+      "releaseDate": "2011-01-01"
     },
     {
-      "name": "Security Mechanisms for Body Sensor Networks",
+      "title": "Security Mechanisms for Body Sensor Networks",
+      "authors": [
+        "S. Taha Ali"
+      ],
       "publisher": "University of New South Wales",
-      "releaseDate": "2011",
+      "releaseDate": "2011-01-01",
       "summary": "PhD Thesis."
     },
     {
-      "name": "Secret Key Generation Rate vs. Reconciliation Cost Using Wireless Channel Characteristics in Body Area Networks",
+      "title": "Secret Key Generation Rate vs. Reconciliation Cost Using Wireless Channel Characteristics in Body Area Networks",
+      "authors": [
+        "S. Taha Ali",
+        "V. Sivaraman",
+        "D. Ostry"
+      ],
       "publisher": "IEEE/IFIP International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)",
-      "releaseDate": "2010"
+      "releaseDate": "2010-01-01"
     },
     {
-      "name": "Secure Key Loss Recovery For Network Broadcast In Single-Hop Wireless Sensor Networks",
-      "publisher": "IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",
-      "releaseDate": "2008"
-    },
-    {
-      "name": "A Per-Hop Security Scheme For Highly Dynamic Wireless Sensor Networks",
+      "title": "A Per-Hop Security Scheme For Highly Dynamic Wireless Sensor Networks",
+      "authors": [
+        "S. Taha Ali",
+        "V. Sivaraman",
+        "A. Dhamdhere"
+      ],
       "publisher": "IEEE Mobile Adhoc and Sensor Systems (MASS)",
-      "releaseDate": "2009"
+      "releaseDate": "2009-01-01"
+    },
+    {
+      "title": "Secure Key Loss Recovery For Network Broadcast In Single-Hop Wireless Sensor Networks",
+      "authors": [
+        "S. Taha Ali",
+        "V. Sivaraman",
+        "A. Dhamdhere",
+        "D. Ostry"
+      ],
+      "publisher": "IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",
+      "releaseDate": "2008-01-01"
     }
   ],
 
   "skills": [
     {
-      "name": "Research & Technology",
+      "name": "Technical & Research",
       "keywords": [
         "Computer Networks",
+        "Network Security",
         "Information Security",
-        "Cryptocurrencies",
-        "Blockchain",
+        "Cryptography",
+        "Software-Defined Networking",
+        "Wireless Sensor Networks",
         "Internet of Things",
+        "Blockchain",
+        "Cryptocurrencies",
         "Machine Learning",
-        "Technology Policy",
-        "Electronic Voting"
+        "Computer Vision",
+        "Electronic Voting",
+        "Network Routing and Switching",
+        "Security Engineering"
       ]
     }
   ],
 
-  "projects": [
+  "interests": [
     {
-      "name": "Cognet Lab",
-      "summary": "Research on security applications in new and emerging technologies including blockchain, machine learning, computer vision, and Internet of Things."
-    },
-    {
-      "name": "Coding Fellows Program",
-      "summary": "STEM education initiative involving teacher training, lesson development, competitions, and university outreach in government schools."
-    },
-    {
-      "name": "High Impact Skills Development Program in AI, Data Science, and Blockchain",
-      "summary": "Six-month specialized blockchain technology program developed in collaboration with the Gilgit Baltistan government and NUST."
+      "name": "Emerging Technologies",
+      "keywords": [
+        "Blockchain",
+        "Cryptocurrencies",
+        "Machine Learning",
+        "Internet of Things",
+        "Computer Vision",
+        "Electronic Voting",
+        "Technology Policy"
+      ]
     }
   ],
 
   "references": [
     {
       "name": "Dr. Faisal Shafait",
-      "reference": "Professor and Associate Dean, Department of Computer Science, School of Electrical Engineering and Computer Science, National University of Sciences and Technology, Pakistan."
+      "reference": "Professor and Associate Dean, Department of Computer Science, School of Electrical Engineering and Computer Science, National University of Sciences and Technology, Pakistan.",
+      "url": "https://tukl.seecs.nust.edu.pk/members/faisal_shafait.html"
     },
     {
       "name": "Dr. Feng Hao",
-      "reference": "Professor of Security Engineering, Department of Computer Science, Warwick University, UK."
+      "reference": "Professor of Security Engineering, Department of Computer Science, University of Warwick, UK.",
+      "url": "https://www.dcs.warwick.ac.uk/~fenghao/"
     },
     {
       "name": "Dr. Siamak F. Shahandashti",
-      "reference": "Senior Lecturer/Associate Professor, Cyber Security and Privacy Research Group, Department of Computer Science, University of York, UK."
+      "reference": "Senior Lecturer / Associate Professor, Cyber Security and Privacy Research Group, University of York, UK.",
+      "url": "https://www-users.york.ac.uk/~sfs521/"
     },
     {
       "name": "Ronan McDermott",
-      "reference": "Senior International Consultant, Election Processes and Management, MCDIS."
+      "reference": "Senior International Consultant, Election Processes and Management, MCDIS.",
+      "url": "http://www.mcdis.com"
     },
     {
       "name": "Dr. Vijay Sivaraman",
-      "reference": "Professor of Electrical Engineering, University of New South Wales, Australia."
+      "reference": "Professor of Electrical Engineering, University of New South Wales, Australia.",
+      "url": "https://research.unsw.edu.au/people/professor-vijay-sivaraman"
     }
   ]
 }

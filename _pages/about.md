@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: TAwebprofile.jpg
   image_circular: false
   more_info: >
     <div style="text-align:center">

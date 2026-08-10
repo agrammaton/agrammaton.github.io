@@ -6,8 +6,6 @@ nav: true
 nav_order: 1
 ---
 
-## Bio
-
 I am Associate Professor in the Department of Electrical Engineering at the NUST School of Electrical Engineering and Computer Science (SEECS) in Islamabad.
 
 I graduated with a BS in Electronics Engineering from GIK Institute of Engineering Sciences and Technology, followed by a Masters of Engineering Science from the University of New South Wales (UNSW). I did my PhD, also from UNSW, under the supervision of [Vijay Sivaraman](https://research.unsw.edu.au/people/professor-vijay-sivaraman) and [Diet Ostry](https://csiropedia.csiro.au/ostry-diethelm/). My research consisted of devising lightweight security solutions for bodyworn healthcare devices.
